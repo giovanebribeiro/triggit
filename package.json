@@ -1,0 +1,23 @@
+{
+  "name": "@giovanebribeiro/triggit",
+  "version": "0.0.0",
+  "description": "If a file changes on a git repo, do something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test implemented\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanebribeiro/triggit.git"
+  },
+  "keywords": [
+    "git",
+    "trigger"
+  ],
+  "author": "Giovane Boaviagem <giovanebribeiro@gmail.com> (http://about.me/giovanebribeiro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giovanebribeiro/triggit/issues"
+  },
+  "homepage": "https://github.com/giovanebribeiro/triggit#readme"
+}
